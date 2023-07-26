@@ -1,12 +1,12 @@
-[English](./README.EN.md) | 简体中文
+English| [简体中文](./README.EN.md) 
 
 #  <p align='center'>Win10-TransparentTaskbar</p>
-<p align='center'>“简洁小巧的批处理命令”</p>
+<p align='center'>“Lightweight batch commands”</p>
 
-### 特性
+### quickstart
 
-> 注：该批处理文件仅适用于win10主流或最新版本
+> ps：This batch file is only available for Win10 mainstream or latest version
 
-`运行完成自动关闭，不占用后台` 
+`Automatically shut down when the run completes` 
 
-如国内下载速度过慢[请点此下载](https://sakuras.lanzouk.com/iZx7P10wc20d)
+----Text translations come from Bing
