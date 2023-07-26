@@ -1,4 +1,9 @@
-## Win10-TransparentTaskbar
+[English](./README.EN.md) | 简体中文
+
+#  <p align='center'>Win10-TransparentTaskbar</p>
+<p align='center'>“简洁小巧的批处理命令”</p>
+
+### 特性
 
 > 注：该批处理文件仅适用于win10主流或最新版本
 
