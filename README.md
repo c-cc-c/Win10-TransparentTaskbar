@@ -1,3 +1,6 @@
-# Win10-TransparentTaskbar
- ![Image text](https://img1.imgtp.com/2023/07/01/MzRqKmiM.gif)
-无需动手点击完成，完成后关闭批命令即可，不需要挂后台（注：不适用win11和浅色主题，目前无法解决）
+## Win10-TransparentTaskbar
+
+> 注：该批处理文件仅适用于win10主流或最新版本
+
+`运行完成自动关闭，不占用后台`
+
