@@ -1,4 +1,4 @@
-English| [简体中文](./README.EN.md) 
+English| [简体中文](./README.md) 
 
 #  <p align='center'>Win10-TransparentTaskbar</p>
 <p align='center'>“Lightweight batch commands”</p>
